@@ -22,9 +22,6 @@ This is a heavily modified fork of [phpMyAdmin](https://www.phpmyadmin.net/)
 
 This software is intended to handle the administration of the GodsEye surveillance system over the web.
 
-## Demo :movie_camera:
-Demo video can be found [here](https://youtu.be/0mx5jkTiKyU)
-
 ## Copyright
 
 
